@@ -1,7 +1,7 @@
 # strategic communication in the metaverse 
 
 ## video games
-- [some link](web/)
+- [some link](web/games/)
 
 ## digital marketing
 
