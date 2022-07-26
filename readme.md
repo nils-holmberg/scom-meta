@@ -1,6 +1,7 @@
 # strategic communication in the metaverse 
 
 ## video games
+- [some link](web/)
 
 ## digital marketing
 
