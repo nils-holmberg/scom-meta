@@ -1,6 +1,7 @@
 # video games
 
 ## halo infinite
+![image alt](https://img.youtube.com/vi/tEvGIeZ5gl8/0.jpg)
 - [video: game development](https://www.youtube.com/watch?v=tEvGIeZ5gl8)
 - [video: game story](https://www.youtube.com/watch?v=x854SRKJPqc)
 
